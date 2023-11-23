@@ -49,8 +49,12 @@ alt="punto 10">
 alt="punto 11">
 
 <h2>Punto 12: Tabla de multiplicar usando for </h2>
+<img src="./public/images/ejercicio_php_12.png"
+alt="punto 12">
 
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
+<img src="./public/images/ejercicio_php_13.png"
+alt="punto 13">
 
 <h2>Punto 14: Revision de contraseña</h2>
 
