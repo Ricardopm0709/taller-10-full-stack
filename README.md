@@ -57,5 +57,9 @@ alt="punto 12">
 alt="punto 13">
 
 <h2>Punto 14: Revision de contraseña</h2>
+<img src="./public/images/ejercicio_php-14.png"
+alt="punto 14">
 
 <h2>Punto 15: Selecion de operacion arintmetica usando funciones</h2>
+<img src="./public/images/ejercicio_php_15.png"
+alt="punto 15">
